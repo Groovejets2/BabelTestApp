@@ -11,9 +11,10 @@ Create a directory somewhere;
 Initialize it as an NPM project;
 Install the Babel tool, along with the presets and plugins we'll be using; and
 Configure Babel to use those presets and plugins.
+```
 # This moves to your home directory to create the folder. 
 # If you don't want it there, cd somewhere else.
-```
+
 cd && mkdir babel_example && cd $_
 npm init
 # Hit ENTER a bunch of times . . . 
