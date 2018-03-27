@@ -1,0 +1,29 @@
+{
+  "name": "babel-testapp",
+  "version": "1.0.0",
+  "description": "A simple Babel test app for ***ES2015*** sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Groovejets2/BabelTestApp.git"
+  },
+  "keywords": [
+    "babel",
+    "test",
+    "app"
+  ],
+  "author": "Jonathan Hughes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Groovejets2/BabelTestApp/issues"
+  },
+  "homepage": "https://github.com/Groovejets2/BabelTestApp#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-plugin-transform-async-to-generator": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
