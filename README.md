@@ -1,6 +1,6 @@
 A simple ***Babel*** test app for ***ES2015*** sample
 
-From: https://scotch.io/tutorials/javascript-transpilers-what-they-are-why-we-need-them
+From: [https://scotch.io/tutorials/javascript-transpilers-what-they-are-why-we-need-them](https://scotch.io/tutorials/javascript-transpilers-what-they-are-why-we-need-them)
 
 Setting Up the Babel CLI
 The live REPL is slick, but writing your entire codebase that way would suck. Let's save ourselves some work and set up the Babel CLI.
